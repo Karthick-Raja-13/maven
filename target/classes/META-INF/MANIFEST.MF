@@ -1,4 +1,24 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 21
+Class-Path: selenium-java-4.28.0.jar selenium-api-4.28.0.jar jspecify-1.
+ 0.0.jar selenium-chrome-driver-4.28.0.jar auto-service-annotations-1.1.
+ 1.jar selenium-chromium-driver-4.28.0.jar selenium-json-4.28.0.jar sele
+ nium-manager-4.28.0.jar selenium-devtools-v130-4.28.0.jar selenium-devt
+ ools-v131-4.28.0.jar selenium-devtools-v132-4.28.0.jar selenium-devtool
+ s-v85-4.28.0.jar selenium-edge-driver-4.28.0.jar selenium-firefox-drive
+ r-4.28.0.jar selenium-http-4.28.0.jar selenium-ie-driver-4.28.0.jar sel
+ enium-remote-driver-4.28.0.jar guava-33.4.0-jre.jar failureaccess-1.0.2
+ .jar listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar jsr
+ 305-3.0.2.jar checker-qual-3.43.0.jar error_prone_annotations-2.36.0.ja
+ r j2objc-annotations-3.0.0.jar opentelemetry-semconv-1.28.0-alpha.jar o
+ pentelemetry-api-1.46.0.jar opentelemetry-context-1.46.0.jar openteleme
+ try-exporter-logging-1.46.0.jar opentelemetry-sdk-common-1.46.0.jar ope
+ ntelemetry-sdk-extension-autoconfigure-spi-1.46.0.jar opentelemetry-sdk
+ -extension-autoconfigure-1.46.0.jar opentelemetry-api-incubator-1.46.0-
+ alpha.jar opentelemetry-sdk-trace-1.46.0.jar opentelemetry-sdk-1.46.0.j
+ ar opentelemetry-sdk-metrics-1.46.0.jar opentelemetry-sdk-logs-1.46.0.j
+ ar byte-buddy-1.15.11.jar selenium-os-4.28.0.jar commons-exec-1.4.0.jar
+  selenium-safari-driver-4.28.0.jar selenium-support-4.28.0.jar
+Main-Class: maven.Sample
 Created-By: Maven Integration for Eclipse
 
